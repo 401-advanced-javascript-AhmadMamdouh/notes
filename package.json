@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/401-advanced-javascript-AhmadMamdouh/notes#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "minimist": "^1.2.5"
   }
 }
