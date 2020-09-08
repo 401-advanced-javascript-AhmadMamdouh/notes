@@ -22,4 +22,3 @@ function catchError(){
     `);
 }
 
-Notes.execute(options);
