@@ -20,5 +20,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "minimist": "^1.2.5"
+<<<<<<< HEAD
   }
+=======
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+>>>>>>> class-02
 }
