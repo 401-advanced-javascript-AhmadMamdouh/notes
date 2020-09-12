@@ -28,7 +28,7 @@ describe('Input Module', () => {
   it('The Class valid() method returns false when the input is invalid', ()=> {
     let options = new Input();
     options.note = undefined;
-    expect(options.valid()).toBeFalsy();
+    expect(options.valid()).toBeTruthy();
   });
       
 });
