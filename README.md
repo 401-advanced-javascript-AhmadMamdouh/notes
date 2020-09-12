@@ -24,3 +24,8 @@ add note: node index.js --add or -a 'note content'
 This application was build with Node.js and it includes:
 
 * minimist package
+
+## How to use your library (where applicable)
+### Tests
+* Jest Tests: npm test
+* Lint Tests: npm run lint
