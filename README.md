@@ -4,6 +4,10 @@ Author : Ahmad Mamdouh AlHabrawi
 ## Overview 
 this applicaiton to make Notes and show it for Users .
 
+## To try this app in your terminal
+
+node index.js --add 'This is a really cool thing that I wanted to remember for later'
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -24,6 +28,9 @@ add note: node index.js --add or -a 'note content'
 This application was build with Node.js and it includes:
 
 * minimist package
+* mongoose
+* express
+* jest
 
 ## How to use your library (where applicable)
 ### Tests
